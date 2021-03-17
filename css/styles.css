@@ -1,0 +1,17 @@
+h2.intro {
+  color: brown;
+}
+
+img.intro {
+  width: 25%;
+  align: right;
+}
+
+p.intro {
+  font-style: italic;
+  align: left;
+}
+
+p {
+  align: center;
+}
