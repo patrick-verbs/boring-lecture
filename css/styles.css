@@ -1,15 +1,7 @@
-h2.intro {
-  color: brown;
-}
-
-img.intro {
-  width: 25%;
-  align: right;
-}
-
-p.intro {
+.intro {
+  color: rgb(248, 8, 8);
+  text-align: right;
   font-style: italic;
-  align: left;
 }
 
 p {
